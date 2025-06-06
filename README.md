@@ -2,6 +2,10 @@
 
 這個專案展示了如何使用 Flagsmith 開源特性標誌服務在 AWS 上部署一個完整的特性標誌管理解決方案。
 
+## 展示頁面
+
+![Flagsmith 特性標誌示範頁面](./images/demo-screenshot.png)
+
 ## 架構概覽
 
 此示範使用以下 AWS 服務：
