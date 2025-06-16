@@ -1,6 +1,6 @@
 // Initialize Flagsmith with the JavaScript client
 const flagsmithOptions = {
-    environmentID: "78i5i8ACmutvpStAWCB7J6",  // Replace with your Flagsmith environment ID
+    environmentID: "<YOUR Flagsmith environment ID>",  // Replace with your Flagsmith environment ID
     defaultFlags: {
         progressive_release: false,
         button_color: "primary",
